@@ -22,7 +22,7 @@ export const Profile: React.FC = () => {
               <p className="text-lg text-qida-medium font-medium">Product Lead Candidate</p>
             </div>
             <a 
-              href="https://drive.google.com/file/d/1k8tCVy3Mya3jJRd7kl5SBg4-R3saRPrJ/view?usp=sharing"
+              href="https://www.dropbox.com/scl/fi/0yzz5at5qky9kbq3yw5xq/CV-Xavier-Terradellas.pdf?rlkey=mehywmkcqnlmj52gn3rvs48bn&st=padnjtuj&dl=0"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center px-4 py-2 bg-qida-dark text-white rounded-lg hover:bg-opacity-90 transition-colors shadow-sm"
